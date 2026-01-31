@@ -1,4 +1,4 @@
-# 🎮 Orange Rush: Code Grey
+# 🎮 Orange Rush: Code Grey.
 
 ![Game Banner](https://img.shields.io/badge/Game-Orange%20Rush-ff8c00?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Playable-brightgreen?style=for-the-badge)
